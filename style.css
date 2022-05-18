@@ -1,0 +1,7 @@
+body{
+    background-image: url(./assets/main-bg.jpg);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 120vh;
+}
