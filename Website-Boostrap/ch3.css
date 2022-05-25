@@ -1,0 +1,515 @@
+.page1{
+    background-image: url(../assets/main-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    width: 100%;
+    max-height: max-content;
+    min-height: 110vh;
+    font-family: arial;
+    position: relative;
+}
+
+.navbar{
+    background-color: rgba(0,0,0,0.75);
+}
+
+.navigasi a{
+    color: white;
+    font-size: 12px;
+}
+
+#logo{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 107px;
+}
+
+.nav-tengah{
+    margin-left: 142px;
+}
+
+.nav-tengah ul li{
+    margin-right: 32px;
+}
+
+.nav-terdalam{
+    margin-left: 391px;
+}
+
+.content{
+    color: white;
+}
+.content h1{
+    font-size: 72px;
+}
+
+.content h3{
+    letter-spacing: 4px;
+}
+
+.button-content{
+    text-align: center;
+}
+
+.button-content button{
+    padding: 20px 100px;
+    border: none;
+    border-radius: 8px;
+    background-color: #FFB548;
+    margin-top: 100px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Open Sans';
+}
+
+.end-content{
+    margin-top: 285px;
+}
+.end-content p{
+    text-align: center;
+    color: white;
+    font-family: arial;
+    font-size: 12px;
+}
+
+.end-content img{
+    position: absolute;
+    left: 710px;
+}
+
+.page2{
+    background: url(../assets/the-games-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    max-height: max-content;
+    min-height: 110vh;
+    position: relative;
+}
+
+.title-content-page2 .text-content-page2{
+    margin-top: 224px;
+    color: white;
+}
+
+.title-content-page2 .text-content-page2 p{
+    margin-bottom: 13px;
+    font-size: 24px;
+}
+
+.title-content-page2 .text-content-page2 h2{
+    font-size: 56px;
+}
+
+.title-content-page2 .carousel-content-page2{
+    margin-top: 270px;
+}
+
+.scroll-left{
+    position: absolute;
+    left: 460px;
+    top: 470px;
+}
+
+.scroll-right{
+    position: absolute;
+    right: 15px;
+    top: 465px;
+}
+
+.page3{
+    background-image: url(../assets/features.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-height: max-content;
+    min-height: 110vh;
+    position: relative;
+}
+
+.title-content-page3 .content1-page3{
+    margin-top: 169px;
+}
+
+.content1-page3 p{
+    color: white;
+    font-size: 24px;
+    font-family: arial;
+    letter-spacing: 2px;
+    line-height: 25px;
+}
+
+.content1-page3 .features{
+    font-size: 56px;
+    letter-spacing: 3px;
+    margin-top: 1px;
+    font-family: arial;
+}
+
+.title1-content-page3 .content2-page3 .ellipse-white{
+    
+}
+
+.ellipse-white img{
+    height: 20px;
+    width: 20px;
+    margin-top: 0px;
+}
+
+
+.content2-page3 .tradi{
+    color: #FFB548;
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+
+
+.content2-page3 p{
+    font-family: arial;
+    color: white;
+    line-height: 25px;
+}
+
+.line-page3{
+    width: 140px;
+    border: 2px solid white;
+    position: absolute;
+    left: 781.2px;
+    transform: rotate(90deg);
+    top: 388.3px;
+}
+
+.page4{
+    background-image: url(../assets/requirements.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-height: max-content;
+    min-height: 110vh;
+}
+
+.title-content-page4 .content1-page4{
+    margin-top: 95px;
+}
+
+.content1-page4 p{
+    color: white;
+    font-size: 14px;
+    font-family: arial;
+}
+
+.title1-content-page4 .content2-page4{
+    color: white;
+    font-size: 56px;
+}
+
+.table-system .title-system{
+    color: #FFB548;
+    font-size: 24px;
+    font-family: arial;
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+
+.table-system .content-system{
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.page5{
+    background-image: url(../assets/top-score-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-height: max-content;
+    min-height: 110vh;
+    width: 100%;
+}
+
+.page5-content{
+    margin-left: 0px;
+}
+
+.page5-content .content-page5{
+    margin-top: 200px;
+    color: white;
+    font-family: arial;
+}
+
+.content-page5 .text-title{
+    font-size: 56px;
+}
+
+.content-page5 .text-content{
+    font-size: 18px;
+    width: 360px;
+}
+
+.content-page5 button{
+    padding: 20px 85px;
+    border: none;
+    border-radius: 8px;
+    background-color: #FFB548;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Open Sans';
+}
+
+.card{
+    background-color: rgba(255, 255, 255, 0.08);
+    width: 452px;
+    height: 182px;
+    display: inline-block;
+    padding: 11px 12px;
+    position: relative;
+    margin-top: 160px;
+}
+
+.card .profile{
+    width: 65px;
+    height: 65px;
+    border-radius: 30px;
+    
+}
+
+.card .name {
+    position: absolute;
+    top: 10px;
+    left: 100px;
+    color: #FFB548;
+    font-size: 24px;
+}
+
+.card .type-ppl{
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    color: rgb(141,141,141);
+}
+
+.card .comment{
+    position: absolute;
+    top: 90px;
+    color: white;
+    font-size: 18px;
+    left: 16px;
+}
+
+.card .date{
+    position: absolute;
+    top: 120px;
+    left: 16px;
+    color: rgb(141,141,141);
+}
+
+.card1{
+    background-color: rgba(255, 255, 255, 0.08);
+    width: 452px;
+    height: 182px;
+    display: inline-block;
+    padding: 11px 12px;
+    position: relative;
+    margin-top: 30px;
+    border-radius: 8px;
+}
+
+.card1 .profile{
+    width: 65px;
+    height: 65px;
+    border-radius: 30px;
+    
+}
+
+.card1 .name {
+    position: absolute;
+    top: 10px;
+    left: 100px;
+    color: #FFB548;
+    font-size: 24px;
+}
+
+.card1 .type-ppl{
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    color: rgb(141,141,141);
+}
+
+.card1 .comment{
+    position: absolute;
+    top: 90px;
+    color: white;
+    font-size: 18px;
+    left: 16px;
+}
+
+.card1 .date1{
+    position: absolute;
+    top: 145px;
+    left: 16px;
+    color: rgb(141,141,141);
+}
+
+.page6{
+    background-image: url(../assets/newsletter.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: max-content;
+    min-height: 110vh;
+    width: 100%;
+    position: relative;
+}
+
+.gambar-tengkorak{
+    position: absolute;
+    top: 39px;
+    left: 159px;
+}
+
+.content-page6{
+    position: absolute;
+    left: 700px;
+    color: white;
+    font-family: arial;
+    top: 100px;
+}
+
+.text-content6{
+    width: 160px;
+    font-size: 24px;
+}
+
+.text1-content6{
+    font-size: 65px;
+    text-transform: uppercase;
+    width: 500px;
+    line-height: 70px;
+}
+
+.text2-content6{
+    font-size: 18px;
+    width: 650px;
+}
+
+.content-page6 .email-content{
+    margin-top: 70px;
+}
+
+.box-email{
+    width: 350px;
+    height: 60px;
+    background-color: rgba(255, 255, 255, 0.08);
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 16px;
+    vertical-align: top;
+}
+
+.box-top{
+    color: rgb(141,141,141);
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+
+.box-bot{
+    color: #FFB548;
+    font-size: 18px;
+}
+
+.box-button{
+    background-color: #FFB548;
+    border: none;
+    color: black;
+    font-size: 16px;
+    padding: 16px 70px;
+    vertical-align: top;
+    border-radius: 5px;
+}
+
+.footer{
+    font-family: arial;
+    position: absolute;
+    top: 725px;
+    left: 350px;
+}
+
+.footer ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.footer ul li{
+    margin-right: 50px;
+    font-size: 12px;
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer1{
+    position: absolute;
+    top: 83%;
+    left: 71%;
+}
+
+.footer1 ul{
+    display: flex;
+    list-style: none;
+}
+
+.footer1 ul li{
+    margin-right: 50px;
+}
+
+
+.line{
+    width: 1170px;
+    border: 0.1px solid gray;
+    position: absolute;
+    top: 90%;
+    left: 11%;
+}
+
+.footer3{
+    font-size: 14px;
+    color: rgb(141,141,141);
+    position: absolute;
+    top: 93%;
+    left: 11%;
+}
+
+.footer4{
+    position: absolute;
+    top: 92%;
+    left: 60%;
+}
+
+.footer4 ul{
+    display: flex;
+    list-style: none;
+}
+
+.footer4 ul li a{
+    text-decoration: none;
+    color: white;
+    margin-right: 35px;
+    font-size: 13px;
+}
+
+.footer4 ul li .khusus{
+    border-left: 1px solid white;
+    padding-left: 15px;
+    border-right: 1px solid white;
+    padding-right: 15px;
+}
